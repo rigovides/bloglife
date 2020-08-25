@@ -4,4 +4,9 @@ title: WIP
 permalink: /wip/
 ---
 
-I am currently working on updating this site.
+## What I am working on right now:
+
+- Updating this site
+- Learning SwiftUI
+- Reading Thinking Fast and Slow by Daniel Kahneman
+
