@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div align="center">
-<img src="/assets/headshot.png" alt="drawing" width="160"/>
+<img src="/assets/headshot.jpeg" alt="drawing" width="160"/>
 </div>
 <br />
 
