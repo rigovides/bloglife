@@ -9,4 +9,6 @@ permalink: /about/
 </div>
 <br />
 
-#### My name is Rigoberto Vides, I make iOS apps using Swift and Objective-C.
+#### Hi! I'm Rigo, I live in Guadalajara, Mexico. I make iOS apps with Swift, Objective-C, and my head. Owner of 2 dogs, craft beer & writing enthusiast. [Here's my updated resume.][resume]
+
+[resume]: documents/resume.pdf
