@@ -24,6 +24,6 @@ So I think the opportunity to make any profit of this is gone now, but I still s
 
 And talking about free stuff, I’m planning to open source the app’s source code _soon_, but that’s for another day.
 
-_P.S. Yeah I have a new site + blog, hello world!_
+_P.S. Yeah I have a new site + blog, 👋🏼hello world!_
 
 [appstore-link]: https://apps.apple.com/us/app/id1477759500
