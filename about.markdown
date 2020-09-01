@@ -9,6 +9,6 @@ permalink: /about/
 </div>
 <br />
 
-#### Hi! I'm Rigo, I live in Guadalajara, Mexico. I make iOS apps with Swift, Objective-C, and my head. Owner of 2 dogs, craft beer & writing enthusiast. [Here's my updated resume.][resume]
+#### Hi! I'm Rigo, I live in Guadalajara, Mexico. I make iOS apps with Swift, Objective-C, and my head. Owner of 2 dogs, craft beer & writing enthusiast. [Here's my resume.][resume]
 
 [resume]: documents/resume.pdf
